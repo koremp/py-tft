@@ -1,3 +1,3 @@
 # py-tft
 
-python tft 구축
+python tft copy
